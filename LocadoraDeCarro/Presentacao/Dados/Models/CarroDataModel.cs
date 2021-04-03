@@ -4,7 +4,19 @@ using System.Text;
 
 namespace Dados.Models
 {
-    class CarroDataModel
+   public  class CarroDataModel
     {
+        public int Id { get; set; }
+
+        public string Marca { get; set; }
+
+        public string Modelo { get; set; }
+
+        public string Ano { get; set; }
+
+        public string Foto { get; set; }
+
+        public int   CategoriaCarroId { get; set; }
+
     }
 }
