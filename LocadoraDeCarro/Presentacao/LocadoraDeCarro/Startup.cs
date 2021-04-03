@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LocadoraDeCarro.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -41,10 +42,11 @@ namespace LocadoraDeCarro
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
-
             app.UseAuthorization();
+
+            //custom Middlewares
+            app.UseMiddleware<FriendListMiddleware>(Configuration["AllowedHosts"]);
 
             app.UseEndpoints(endpoints =>
             {
