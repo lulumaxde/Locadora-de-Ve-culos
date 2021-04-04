@@ -10,6 +10,7 @@ namespace Dados.Models
 
         public string Descricao  { get; set; }
 
+        public double Preco { get; set; }
 
     }
 }
