@@ -12,8 +12,6 @@ C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\Locadora
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.csprojAssemblyReference.cache
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.AssemblyInfoInputs.cache
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.AssemblyInfo.cs
-C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.csproj.CoreCompileInputs.cache
-C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.RazorAssemblyInfo.cache
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.RazorAssemblyInfo.cs
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.TagHelpers.input.cache
@@ -35,3 +33,11 @@ C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\Locadora
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.pdb
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.genruntimeconfig.cache
 C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.csproj.CopyComplete
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\bin\Debug\netcoreapp3.1\Dados.dll
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\obj\Debug\netcoreapp3.1\LocadoraDeCarro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\bin\Debug\netcoreapp3.1\Dados.pdb
+C:\Users\lucas\Downloads\Pessoal\.NET curso\LocadoraDeCarro\Presentacao\LocadoraDeCarro\bin\Debug\netcoreapp3.1\Negocio.pdb

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "c5H+2azfartzt2oFGcl3ghvXijmONwG5Oa5tnXsacySMHI+Q+Qi5T70tiu3WXkNQUrmSn8bAdCLJ+aRBZG0dMA==",
+  "dgSpecHash": "ubAVEcZvVCiLPG133a6dkex4a6th5tT7HiPg9e+Pg9msNKxPDUpZmsncT+hp4Cmm+MATGTBPL/aqqrM1ofckxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas\\Downloads\\Pessoal\\.NET curso\\LocadoraDeCarro\\Presentacao\\LocadoraDeCarro\\LocadoraDeCarro.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

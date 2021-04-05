@@ -9,6 +9,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using AutoMapper;
+using Negocio.RepositorioDados;
+using Dados.Repositorio;
 
 namespace LocadoraDeCarro
 {
@@ -25,6 +28,11 @@ namespace LocadoraDeCarro
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddAutoMapper(typeof(Startup));
+            services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
+            
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
