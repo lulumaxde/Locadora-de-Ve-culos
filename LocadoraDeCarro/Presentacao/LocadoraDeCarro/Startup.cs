@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 using AutoMapper;
 using Negocio.RepositorioDados;
 using Dados.Repositorio;
+using Negocio.ServicoNegocio.Base;
 
 namespace LocadoraDeCarro
 {
@@ -30,6 +31,7 @@ namespace LocadoraDeCarro
             services.AddControllersWithViews();
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
+            services.AddScoped<IClienteServico, ClienteServico>();
             
 
 
